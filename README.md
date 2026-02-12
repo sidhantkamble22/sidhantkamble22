@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sidhant+Kamble;Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Java;Building+Cool+Web+Apps" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sidhant+Kamble;Web+Developer;React+%7C+Next.js+%7C+Java;Building+Cool+Web+Apps" />
 
 <br/>
 
@@ -15,7 +15,7 @@
   <a href="https://instagram.com/sidhantkamble_22">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/sidhant-kamble-8b514930">
+  <a href="https://www.linkedin.com/in/sidhant-kamble-8b514930">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:sidhantkamble080@gmail.com">
@@ -47,8 +47,23 @@
 ## 🧠 About Me
 - 🔥 Passionate about **Web Development**
 - 🎯 Focused on **React & Next.js**
-- 🧩 Love building UI & solving problems
-- 🚀 Growing every day with code
+- 🧩 Love building clean UI & solving problems
+- 🚀 Learning and improving every day
+
+---
+
+## 🚧 Currently Working On
+- Building projects with **React & Next.js**
+- Strengthening **Java fundamentals**
+- Improving UI performance & responsiveness
+
+---
+
+## 🧰 Tools & Workflow
+- VS Code  
+- Git & GitHub  
+- Figma  
+- Vercel  
 
 ---
 
@@ -64,7 +79,12 @@
 </p>
 
 <!--
-## 📊 GitHub Stats (will enable later)
+## 📊 GitHub Stats (enable later)
+![](https://github-readme-stats.vercel.app/api?username=sidhantkamble22)
+![](https://nirzak-streak-stats.vercel.app/?user=sidhantkamble22)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sidhantkamble22&layout=compact)
+-->
+
 ![](https://github-readme-stats.vercel.app/api?username=sidhantkamble22)
 -->
 

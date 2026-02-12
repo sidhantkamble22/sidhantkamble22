@@ -15,9 +15,10 @@
   <a href="https://instagram.com/sidhantkamble_22">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/sidhant-kamble-8b514930">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/sidhant-kamble-8b5149307/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+</a>
+
   <a href="mailto:sidhantkamble080@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
   </a>

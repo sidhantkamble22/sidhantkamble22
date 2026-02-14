@@ -63,8 +63,8 @@
 ## 🧰 Tools & Workflow
 - VS Code  
 - Git & GitHub  
-- Figma  
-- Vercel  
+- IntelliJ IDEA  
+ 
 
 ---
 
